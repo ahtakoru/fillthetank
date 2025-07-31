@@ -17,8 +17,6 @@ This game serves as a testbed for:
 
 ## 📦 Contents
 - `game.py`: Core game logic and simulation environment
-- `strategies/`: Baseline and user-submitted strategies
-- `benchmark.py`: Script to compute cumulative scores over a grid of target values
 - `README.md`: Description and instructions
 
 ## 🚀 How to Use
